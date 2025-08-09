@@ -64,3 +64,9 @@ header.smaller{
 section{
     background: #E9E9E9;
 }
+
+@media (max-width: 1200px) {
+    .text-title {
+        font-size: 1.75rem !important;
+    }
+}
